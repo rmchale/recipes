@@ -2,7 +2,7 @@
 Put entries in: src/jbake/content/blog/<year>/<month>/<entry>
 
 #### BUILD ####
-./build
+` ./build`
 
 #### PUBLISH ####
-./publish
+` ./publish`
