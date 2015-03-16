@@ -17,7 +17,7 @@ status=published
 Melt square of chocolate with med/low heat
 Stir the chocolate into the hot milk
 Mix the chocolate and water in the empty mug until liquid
-The milk is heated when bubbles for on the side and there's steam
+The milk is heated when bubbles form on the side and there's steam
 Pour milk into cup
 Add the vanilla into the cup
 Add marshmallows
